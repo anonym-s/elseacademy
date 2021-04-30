@@ -1,0 +1,13 @@
+// ---------------------------only for creating new project
+npx create-react-app myelsaacademy
+// -------------------------- only for creating new project
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install @material-ui/lab
+npm i react-cookie
+npm i react-router-dom
+npm install --save-dev http-proxy-middleware
+npm install dotenv --save  https://stackoverflow.com/questions/49579028/adding-an-env-file-to-react-project
+npm i react-player
+npm install moment --save 
+npm i axios
